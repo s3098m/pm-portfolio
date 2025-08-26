@@ -1,10 +1,5 @@
 # Project Risk Management
-## 🚗 Mazda AutoDrive Project
-
-**Course:** PJM 6015 - Project Risk Management  
-**Team:** Team 5 – Himanshu Mandloi, Kuldeep Kishor Owalekar, Sowmiya Mankala, Urvi Tank, Urvashi Burman, Yasaswi Madala  
-**Date:** March 27, 2023  
-**Instructor:** Prof. Kristen Drobnis  
+## 🚗 Mazda AutoDrive
 
 ---
 
