@@ -1,6 +1,6 @@
 # Project Risk Management
 ## 🚗 Mazda AutoDrive
-
+### January 2023 – March 2023 | Northeastern University
 ---
 
 ## Project Goal
