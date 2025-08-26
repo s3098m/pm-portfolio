@@ -1,4 +1,4 @@
-## 🍕 Cappy’s Pizzas & Subs – Digital Experience Revamp
+## 🍕 Cappy’s Pizzas & Subs – Digital Experience Revamp - Budget and Scope
 **Mar 2023 – Jul 2023 | Northeastern University**
 
 Led a full-cycle digital transformation project for [Cappy’s Pizzas & Subs](https://g.co/kgs/Eqr3gMd), including website, mobile app, and social media strategy, with measurable improvements in user experience and team efficiency.
