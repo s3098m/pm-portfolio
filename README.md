@@ -26,3 +26,4 @@ Marvel App · UX Design · Agile Methodologies · Cost Management · Rapid Proto
 **Resources**
 - 🎯 [Interactive Marvel Prototype](https://marvelapp.com/prototype/je4biee/screen/91604548)  
 - 📄 [Work Breakdown Structure (WBS) PDF](./Cappy's%20Pizza%20Project.pdf)
+- 🌐 [Visit Cappy's Pizza Website](https://www.cappyspizza.com)
